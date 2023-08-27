@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:alpine3.18
 #pour remplir le fichier de configuration pour faire fonctionner le fichier python
 # il faut recuperer l'id de votre enregistrement dns. Pour cela il faut lister les enregistrement afin de le recuperer 
 
